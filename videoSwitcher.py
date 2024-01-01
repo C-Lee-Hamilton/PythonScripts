@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 import time
 
 # Replace 'youtube2.com' with the actual URL of the YouTube test version
-initial_url = 'https://www.youtube.com/watch?v=ptCgAfANIdc&list=PLqCPt7683g8ArcGMZsTFYwUoFUHrrVDxK&ab_channel=VirgilCole'
+initial_url = 'https://www.youtube.com/watch?v=bvMA-9XLqTw&list=PLEwAwj2nlZkKMXhbU7Mwh24mRpRxhdxZu&ab_channel=alicanteagency'
 profile_url = 'https://www.youtube.com/@PirateSoftware/streams'
 
 # Set the delay before navigating to the streams page (in seconds)
